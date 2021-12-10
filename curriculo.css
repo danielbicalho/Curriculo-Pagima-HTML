@@ -1,0 +1,87 @@
+.conteiner {
+    margin: 0 auto;
+    width: 720px;
+}
+
+.titulo {
+    text-align: center;
+    background-color: whitesmoke;
+    border-color: #ccc #999 #999 #ccc;
+    border: 5px solid #ffd556;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+.habilidadesCss {
+    background-color: whitesmoke;
+    border-color: #ccc #999 #999 #ccc;
+    border: 2px solid #ffd556;
+    margin-left: auto;
+    margin-right: 50%;
+    padding: 10px;
+}
+
+.ObjetivoCss {
+    background-color: whitesmoke;
+    border-color: #ccc #999 #999 #ccc;
+    border: 2px solid #ffd556;
+    width:45%;
+    float: right;
+}
+
+.experienciaCss {
+    background-color: whitesmoke;
+    border-color: #ccc #999 #999 #ccc;
+    border: 2px solid #ffd556;
+    width:50%;
+    float: left;
+}
+
+.formacaoCss {
+    background-color: whitesmoke;
+    border-color: #ccc #999 #999 #ccc;
+    border: 2px solid #ffd556;
+    width:45%;
+    float: left
+}
+
+.contatosCss {
+    background-color: whitesmoke;
+    border-color: #ccc #999 #999 #ccc;
+    border: 2px solid #ffd556;
+    width:45%;
+    float: right
+}
+
+.experienciaPCss {
+    background-color: whitesmoke;
+    border-color: #ccc #999 #999 #ccc;
+    border: 2px solid #ffd556;
+    width:50%;
+    float: right;
+}
+
+.extrasCss{
+    background-color: whitesmoke;
+    border-color: #ccc #999 #999 #ccc;
+    border: 2px solid #ffd556;
+    width:45%;
+    float: left;
+}
+
+body {
+    font-family: "lucida grande", "Lucida Sans Unicode", verdana, sans-serif;
+    line-height: 1.6;
+}
+
+h2 {
+    text-align: center;
+}
+
+.imagem {
+    border: 1px solid #7e9f19;
+    float: left;
+    margin: 10px 10px 0 0;
+    padding: 2px;
+}
