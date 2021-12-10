@@ -5,8 +5,9 @@
 
 .titulo {
     text-align: center;
+    color: #5a5d5d;
     background-color: whitesmoke;
-    border-color: #ccc #999 #999 #ccc;
+    border-color: #fff #999 #999 #fff;
     border: 5px solid #ffd556;
     margin-left: auto;
     margin-right: auto;
@@ -18,15 +19,26 @@
     border-color: #ccc #999 #999 #ccc;
     border: 2px solid #ffd556;
     margin-left: auto;
-    margin-right: 50%;
     padding: 10px;
 }
 
-.ObjetivoCss {
+.extrasCss{
     background-color: whitesmoke;
     border-color: #ccc #999 #999 #ccc;
     border: 2px solid #ffd556;
     width:45%;
+    margin-bottom: 20px;
+    padding: 10px;
+    float: left;
+}
+
+.ObjetivoCss {
+    background-color: #ffd556;
+    border-color: #ccc #999 #999 #ccc;
+    border: 2px solid #ffd556;
+    width:45%;
+    margin-bottom: 20px;
+    padding: 10px;
     float: right;
 }
 
@@ -34,7 +46,9 @@
     background-color: whitesmoke;
     border-color: #ccc #999 #999 #ccc;
     border: 2px solid #ffd556;
-    width:50%;
+    width:45%;
+    margin-bottom: 20px;
+    padding: 10px;
     float: left;
 }
 
@@ -43,14 +57,17 @@
     border-color: #ccc #999 #999 #ccc;
     border: 2px solid #ffd556;
     width:45%;
-    float: left
+    margin-bottom: 20px;
+    padding: 10px;
+    float: right;
 }
 
 .contatosCss {
     background-color: whitesmoke;
     border-color: #ccc #999 #999 #ccc;
     border: 2px solid #ffd556;
-    width:45%;
+    width:48%;
+    margin-bottom: 20px;;
     float: right
 }
 
@@ -58,15 +75,9 @@
     background-color: whitesmoke;
     border-color: #ccc #999 #999 #ccc;
     border: 2px solid #ffd556;
-    width:50%;
-    float: right;
-}
-
-.extrasCss{
-    background-color: whitesmoke;
-    border-color: #ccc #999 #999 #ccc;
-    border: 2px solid #ffd556;
     width:45%;
+    margin-bottom: 20px;
+    padding: 10px;
     float: left;
 }
 
@@ -77,6 +88,15 @@ body {
 
 h2 {
     text-align: center;
+    color: 5a5d5d;
+}
+
+h3 {
+    color: 5a5d5d;
+}
+
+h4 {
+    color: #ED7D31;
 }
 
 .imagem {
@@ -84,4 +104,20 @@ h2 {
     float: left;
     margin: 10px 10px 0 0;
     padding: 2px;
+}
+
+.center {
+    text-align: center;
+}
+
+p {
+    color: #636A6B;
+}
+
+ul {
+    color: #636A6B ;
+}
+
+.port {
+    text-align: center;
 }
